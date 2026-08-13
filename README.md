@@ -346,6 +346,6 @@ This project was created to practice:
 
 This project is intended for **learning and educational purposes**. It should be thoroughly tested and professionally audited before being used with real funds or deployed to a production blockchain.
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
